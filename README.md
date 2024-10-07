@@ -30,6 +30,9 @@ Run each part of the code in the notebook to explore the data. Note that some of
 pandas version: 2.2.2\
 requests version: 2.32.3\
 json version: 2.0.9
+```
+Also see the requirements.txt file for detailed requirements
+```
 
 
 ## Contributing
