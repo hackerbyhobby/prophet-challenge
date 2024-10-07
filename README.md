@@ -26,9 +26,9 @@ forecasting_net.ipynb
 Run each part of the code in the notebook to explore the data. Note that some of the code is provided to confirm dataset information and to create the requirements for this project.
 
 ## Requirements
-3.10.14 (main, May  6 2024, 14:42:37) [Clang 14.0.6 ]\n
-pandas version: 2.2.2\n
-requests version: 2.32.3\n
+3.10.14 (main, May  6 2024, 14:42:37) [Clang 14.0.6 ]\
+pandas version: 2.2.2\
+requests version: 2.32.3\
 json version: 2.0.9
 
 
